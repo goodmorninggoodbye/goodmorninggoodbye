@@ -1,6 +1,11 @@
 ## Howdy!
-I'm a Computer Science graduate from Rutgers University. I'm passionate about building scalable backend systems as well as front-end development (with some experience with FlexBox) that help make a positive impact.
-
+I'm a Computer Science graduate from Rutgers University. I'm passionate about building scalable backend systems as well as front-end development that help make a positive impact.
+### Featured Projects
+- [User-Level Threading Library](link) - Concurrent programming with preemptive scheduling
+- [Blockchain Audit System](link) - HIPAA-compliant tamper-evident logging
+- [Network Server Architecture](link) - Scalable real-time client communication
+- [Custom Memory Allocator](link) - High-performance resource management
+📧 Contact: psamoylov02@gmail.com
 <!--
 **goodmorninggoodbye/goodmorninggoodbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

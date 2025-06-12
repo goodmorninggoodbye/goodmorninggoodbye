@@ -5,6 +5,7 @@ I'm a Computer Science graduate from Rutgers University. I'm passionate about bu
 - [Blockchain Audit System](link) - HIPAA-compliant tamper-evident logging
 - [Network Server Architecture](link) - Scalable real-time client communication
 - [Custom Memory Allocator](link) - High-performance resource management
+
 📧 Contact: psamoylov02@gmail.com
 <!--
 **goodmorninggoodbye/goodmorninggoodbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

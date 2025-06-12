@@ -1,4 +1,5 @@
-## Hi there 👋
+## Howdy!
+I'm a Computer Science graduate from Rutgers University. I'm passionate about building scalable backend systems as well as front-end development (with some experience with FlexBox) that help make a positive impact.
 
 <!--
 **goodmorninggoodbye/goodmorninggoodbye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

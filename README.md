@@ -1,10 +1,10 @@
 ## Howdy!
 I'm a Computer Science graduate from Rutgers University. I'm passionate about building scalable backend systems as well as front-end development that help make a positive impact.
 ### Featured Projects
-- [User-Level Threading Library](link) - Concurrent programming with preemptive scheduling
-- [Blockchain Audit System](link) - HIPAA-compliant tamper-evident logging
-- [Network Server Architecture](link) - Scalable real-time client communication
-- [Custom Memory Allocator](link) - High-performance resource management
+- [User-Level Threading Library](https://github.com/goodmorninggoodbye/user-level-thread-library)
+- [Blockchain Audit System](https://github.com/goodmorninggoodbye/blockchain-logging-service)
+- [Network Server Architecture](https://github.com/goodmorninggoodbye/ttt-server)
+- [Custom Memory Allocator](https://github.com/goodmorninggoodbye/custom-memory-allocator)
 
 📧 Contact: psamoylov02@gmail.com
 <!--
